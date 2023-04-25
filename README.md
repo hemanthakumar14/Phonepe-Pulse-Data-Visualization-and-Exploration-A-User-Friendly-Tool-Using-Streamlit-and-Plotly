@@ -6,7 +6,7 @@ Technologies
 
       Github Cloning, Python, Pandas, MySQL,mysql-connector-python, Streamlit, and Plotly.
      
-statement 
+statement:
       
   The Phonepe pulse Github repository contains a large amount of data related to
 various metrics and statistics. The goal is to extract this data and process it to obtain
